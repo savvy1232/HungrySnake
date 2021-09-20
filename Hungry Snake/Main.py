@@ -8,6 +8,7 @@ screen.bgcolor("black")
 screen.title("Hungry Snake")
 screen.tracer(0)
 
+
 snake = Snake()
 
 screen.listen()
